@@ -10,7 +10,7 @@ The Task Manager application is a simple console-based Java application that all
 **Filter Tasks by Priority:** Users can filter tasks to view those with a specific priority level.  
 # Output:
 
-# 1.ADD TASK
+**1.ADD TASK**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
@@ -25,7 +25,7 @@ Enter the Priority (HIGH/MEDIUM/LOW): MEDIUM
 Enter the Status (Pending / In Progress / Completed): In Progress
 Task Added Successfully: [Your Task Id is : 1, Title is :Submit assignment, Description :Submit the Java assignment by Monday, Priority :MEDIUM, Status :In Progress]
 
-# 2.EDIT TASK
+**2.EDIT TASK**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
@@ -41,7 +41,7 @@ Enter the New Priority (HIGH/MEDIUM/LOW) Or Leave Blank: HIGH
 Enter the New Status (Pending / In Progress / Completed) Or Leave Blank: Pending
 Successfully edited: [Your Task Id is : 1, Title is :Submit final report, Description :Submit the final project report, Priority :HIGH, Status :Pending]
 
-# 3.DELETE TASK
+**3.DELETE TASK**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
@@ -53,7 +53,7 @@ Enter your choice: 3
 Enter the Task Id to Delete: 1
 Deleted the Task Successfully: [Your Task Id is : 2, Title is :Finish project, Description :Complete the project by the end of the week, Priority :HIGH, Status :Pending]
 
-# 4.VIEW ALL TASK
+**4.VIEW ALL TASK**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
@@ -65,7 +65,7 @@ Enter your choice: 4
 [Your Task Id is : 1, Title is :Submit final report, Description :Submit the final project report, Priority :HIGH, Status :Pending]
 [Your Task Id is : 2, Title is :Finish project, Description :Complete the project by the end of the week, Priority :HIGH, Status :Pending]
 
-# 5. FILTER TASKS BY PRIORITY
+**5. FILTER TASKS BY PRIORITY**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
@@ -78,7 +78,7 @@ Enter the Priority (HIGH/MEDIUM/LOW) to Filter: HIGH
 [Your Task Id is : 1, Title is :Submit final report, Description :Submit the final project report, Priority :HIGH, Status :Pending]
 [Your Task Id is : 2, Title is :Finish project, Description :Complete the project by the end of the week, Priority :HIGH, Status :Pending]
 
-# 6.EXIT
+**6.EXIT**
 Task Manager Menu:
 1. Add Task
 2. Edit Task
