@@ -4,11 +4,12 @@ The Task Manager application is a simple console-based Java application that all
 
 # Features
 **Add Task:** Users can add new tasks by providing a title, description, priority (High/Medium/Low), and status (Pending/In Progress/Completed).
-Edit Task: Users can edit existing tasks by specifying the task ID and providing updated information.
-Delete Task: Users can delete tasks by specifying the task ID.
-View All Tasks: Users can view a list of all existing tasks along with their details.
-Filter Tasks by Priority: Users can filter tasks to view those with a specific priority level.
-Output:
+**Edit Task:** Users can edit existing tasks by specifying the task ID and providing updated information.
+**Delete Task:** Users can delete tasks by specifying the task ID.
+**View All Tasks:** Users can view a list of all existing tasks along with their details.
+**Filter Tasks by Priority:** Users can filter tasks to view those with a specific priority level.
+# Output:
+
 # 1.ADD TASK
 Task Manager Menu:
 1. Add Task
